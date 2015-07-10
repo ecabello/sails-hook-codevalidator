@@ -1,0 +1,35 @@
+{
+  "name": "sails-hook-codevalidator",
+  "version": "0.1.0",
+  "description": "Sails js installable hook that implements code validation functionality",
+  "main": "index.js",
+  "sails": {
+    "isHook": true
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecabello/sails-hook-codevalidator.git"
+  },
+  "dependencies": {
+    "async": "^0.9.2",
+    "lodash": "^3.9.3",
+    "randomstring": "^1.0.7"
+  },
+  "devDependencies": {
+    "sails": "~0.11.0"
+  },
+  "keywords": [
+    "sails",
+    "contact",
+    "validation"
+  ],
+  "author": {
+    "name": "Ernesto Cabello",
+    "email": "erneridesbmx@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecabello/sails-hook-codevalidator/issues"
+  }
+}
